@@ -12,4 +12,4 @@ Car Price Prediction Web App
         Created a streamlined user interface with Streamlit allowing users to input car details.
         Integrated Selenium for web scraping to collect additional data about car models and brands.
         Preprocessed the data and fed it into a pre-trained machine learning model (stored as a pickle file) to predict car prices.
-        Displayed the predicted car price to the user on the web interface.
+        Displayed the predicted car price to the user on the web interface
